@@ -1,4 +1,4 @@
-# Technical Interviews - SPD 2.4
+# Leetcode 75
 
 ## Array / String
 - [Merge Strings Alternately](/array_strings/1768.%20Merge%20Strings%20Alternately/problem.md)
