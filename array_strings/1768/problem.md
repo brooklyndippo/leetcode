@@ -39,8 +39,13 @@ merged: a p b q c   d
 - `word1` and `word2` consist of lowercase English letters.
 
 ## Solution
+```js
+/**
+ * @param {string} word1
+ * @param {string} word2
+ * @return {string}
+ */
 
-,,,
 var mergeAlternately = function(word1, word2) {
   let output = '';
 
@@ -58,7 +63,7 @@ mergeAlternately("ab", "pqrs")
 
 mergeAlternately("abcd", "pq")
 // Output: "apbqcd"
-,,,
+```
 
 ### Test the code
 
